@@ -1,4 +1,4 @@
-site_url: https://ntn-boilerplate.netlify.app/
+site_url: https://rocketsecure.tech
 logo_url: https://ntn-boilerplate.netlify.app/icon.png
 
 publish_mode: editorial_workflow
@@ -52,7 +52,7 @@ collections:
   - name: 'pages'
     # identifier_field: name
     label: 'Pages'
-    label_singular: 'Project'
+    label_singular: 'Pages'
     folder: 'assets/content/projects'
     create: true
     format: 'json'
